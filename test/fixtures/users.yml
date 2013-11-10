@@ -3,3 +3,10 @@ chavo:
   last_name: "Morales"
   profile_name: "chavo"
   email: "chavo@gmail.com"
+
+
+felipe:
+  first_name: "Felipe"
+  last_name: "Hangen"
+  profile_name: "felipe"
+  email: "felipe@gmail.com"
